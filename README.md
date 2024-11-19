@@ -1,6 +1,6 @@
 # Proyecto: Mostrar Usuarios desde API con Jetpack Compose
 
-Este proyecto utiliza **Retrofit** para consumir datos de usuarios desde la API `https://jsonplaceholder.typicode.com/users` y muestra los resultados en pantalla utilizando **Jetpack Compose** sin una barra superior (`TopAppBar`).
+Este proyecto utiliza **Retrofit** para consumir datos de usuarios desde la API `https://jsonplaceholder.typicode.com/users` y muestre los resultados.
 
 ---
 
